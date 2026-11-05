@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Bo Jio!</title>
+  <path fill="#f7efe2" d="M0 0h512v512H0z"/>
+  <path fill="#a83725" d="M153 116h206a38 38 0 0 1 38 38v161a38 38 0 0 1-38 38H222l-66 42v-42h-3a38 38 0 0 1-38-38V154a38 38 0 0 1 38-38Z"/>
+  <g fill="none" stroke="#fff5e1" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M205 225v-53h18c24 0 24 25 0 25h-18m18 0c27 0 27 28 0 28h-18"/>
+    <rect x="263" y="190" width="39" height="36" rx="17"/>
+    <path d="M181 255h35v31c0 23-10 33-26 33-10 0-18-5-22-13M243 278v40m0-64v1"/>
+    <rect x="267" y="276" width="37" height="42" rx="17"/>
+    <path d="M333 255v43m0 19v1"/>
+  </g>
+</svg>
